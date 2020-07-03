@@ -16,7 +16,7 @@ parties.
 Links to privacy policies of third party service providers used in the app
 
 Google Play Services    https://www.google.com/policies/privacy/
-AdMob                   https://support.google.com/admob/answer/6128543
+UnityAds                https://unity3d.com/legal/privacy-policy
 
 2.) Sharing Your Information
 
@@ -50,9 +50,8 @@ cookie information (after 18 months)
 Online resources:
 * Privacy Policy                https://www.google.com/policies/technologies/ads/
 * Opt out                       https://www.google.com/settings/ads
-* Service Information           https://privacy.google.com/businesses/adsservices/
-* Partner policy                https://policies.google.com/technologies/partner-sites
-* Ad technology providers       https://support.google.com/admob/answer/9012903
+* Service Information           https://unity.com/solutions/unity-ads?ref=semsupermarket
+* Ad help                       https://unityads.unity3d.com/help/help/resources
 
 
 3.2 Google Play Services
